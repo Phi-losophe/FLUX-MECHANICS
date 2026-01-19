@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ces travaux, merci de les citer comme suit."
+authors:
+  - family-names: "Ouellette"
+    given-names: "Bryan"
+    email: "lmc.theory@gmail.com"
+    affiliation: "Lichen-Collectives"
+title: "ARCHITECTURE DU FLUX : Une Déconstruction Unifiée des Potentiels Mécaniques et de la Cinétique"
+version: 1.0.0
+date-released: 2026-01-19
+abstract: "Ce travail présente un cadre théorique unifié pour l'énergie mécanique, intégrant la géométrie symplectique et la théorie de l'information pour modéliser l'énergie comme un échange topologique dynamique."
+keywords:
+  - "Énergie Mécanique"
+  - "Lichen-Universe"
+  - "Architecture du Flux"
+  - "Physique Théorique"
+license: Apache-2.0
